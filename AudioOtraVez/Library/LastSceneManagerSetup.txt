@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Old Sea Port/scenes/Dock Thing.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
